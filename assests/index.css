@@ -1,0 +1,34 @@
+.button1{
+position: absolute;
+top:20%;
+font-size: 50px;
+}
+.button2{
+    position: absolute;
+    top:40%;
+    font-size:50px;
+}
+.button3{
+    position:absolute;
+    top:60%;
+    font-size:50px;
+}
+.button4{
+    position:absolute;
+    top:80%;
+    font-size:50px;
+}
+/* .content
+{
+    position: absolute;
+  top:100px;
+    right:20px;
+    color: rgb(241, 199, 14);
+    font-size: 150px;
+} */
+.moving_text
+{
+    background-color: black;
+    color: red;
+    font-size: 30px;
+}
